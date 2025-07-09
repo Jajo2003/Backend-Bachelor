@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorizonAPi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06ed55b56286b7d965f9eaf24bcd3a7492b2bfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2770aa6f89a614c564300404b343dd683052816d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorizonAPi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorizonAPi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

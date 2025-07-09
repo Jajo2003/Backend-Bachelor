@@ -168,3 +168,4 @@ C:\Users\PC\Desktop\backend bachelor\HorizonAPi\obj\Debug\net8.0\HorizonAPi.pdb
 C:\Users\PC\Desktop\backend bachelor\HorizonAPi\obj\Debug\net8.0\HorizonAPi.genruntimeconfig.cache
 C:\Users\PC\Desktop\backend bachelor\HorizonAPi\obj\Debug\net8.0\ref\HorizonAPi.dll
 C:\Users\PC\Desktop\backend bachelor\HorizonAPi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Desktop\backend bachelor\HorizonAPi\obj\Debug\net8.0\HorizonAPi.sourcelink.json
