@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "HorizonAPi.sln",
+    "liveServer.settings.port": 5501
+}

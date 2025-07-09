@@ -1,0 +1,6 @@
+@HorizonAPi_HostAddress = http://localhost:5083
+
+GET {{HorizonAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
